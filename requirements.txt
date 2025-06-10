@@ -1,0 +1,8 @@
+autopy
+numpy
+opencv-python
+pillow
+mediapipe
+pyautogui
+pyperclip
+pygetwindows
